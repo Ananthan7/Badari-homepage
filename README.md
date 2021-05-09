@@ -1,3 +1,3 @@
 # codegreentest
-Check out the website recreated by me
-https://ananthan7.github.io/badari-homepage/
+Check out the website recreated 
+ https://ananthan7.github.io/Badari-homepage/
